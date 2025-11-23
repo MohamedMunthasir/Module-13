@@ -6,7 +6,7 @@ Consider the names of the tower pegs as A, B, C. Get the number of disks value f
 
 ## ALGORITHM  
 
-1. **Start the program.**
+1. **Start the program.** 
 2. **Input** the number of disks `n`.
 3. **Print** the number of disks.
 4. Define a **recursive function** `TowerOfHanoi(n, source, destination, auxiliary)`:
