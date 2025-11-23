@@ -6,7 +6,7 @@ To write a Python program to implement a stack using a list and its built-in met
 
 
 ## ALGORITHM
-
+ 
 1. **Start the program.**
 2. **Define a class `st`** with the following methods:
    - `push(self, num)`: Adds the number `num` to the stack.
